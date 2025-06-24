@@ -1,0 +1,9 @@
+p {
+    text-transform: uppercase;
+    size: 80pt;
+}
+.navbar{
+    color: #000;
+    background-color: aquamarine;
+    width: fit-content;
+}
