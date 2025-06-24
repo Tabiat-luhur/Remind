@@ -1,3 +1,6 @@
+body{
+    margin: 0;
+}
 p {
     text-transform: lowercase;
     color: blue;
@@ -5,5 +8,11 @@ p {
 .navbar{
     color: #000;
     background-color: aquamarine;
-    width: fit-content;
+    flex: 100%;
+    text-align: center;
+
+}
+.navbar, h3{
+    text-transform: uppercase;
+    padding-bottom: 10px;
 }
