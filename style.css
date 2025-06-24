@@ -4,6 +4,9 @@ body{
 p {
     text-transform: lowercase;
     color: blue;
+    margin-right: 20px;
+    margin-left: 20px;
+    text-align: justify;
 }
 .navbar{
     color: #000;
